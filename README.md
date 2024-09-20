@@ -2,7 +2,8 @@
 
 I'm Lovely Singh, a passionate Full Stack Developer skilled in the MERN stack and dedicated to building functional and efficient web applications. 🌐
 
-- 🔭 I’m currently working on [GoodFood](#) - A food delivery platform with multiple buyers and sellers.
+- 👨🏿‍🤝‍👨🏿   I'm currently working on [Collaborify](#) - A comprehensive platform for managing remote teams, including features for collaboration, task management, and performance tracking.
+- 🔭 My latest project is [GoodFood](#) - A food delivery platform with multiple buyers and sellers.
 - 🌱 I’m currently learning advanced React and Node.js.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything related to JavaScript, MERN Stack, and web development.
